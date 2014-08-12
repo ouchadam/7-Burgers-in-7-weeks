@@ -41,7 +41,7 @@
   Score & optional short sentence as a summary
   
   
- #Picture
+ ##Picture
  
   [Insert picture here]
   
