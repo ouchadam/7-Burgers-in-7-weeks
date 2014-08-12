@@ -41,9 +41,10 @@
   Score & optional short sentence as a summary
   
   
- ##Picture
+ ##Pictures
  
-  [Insert picture here]
+  - [Add your burger pics](path_to_pictura)
+  - [Might have more than one](path_to_pictura)
   
   
  ---
@@ -52,6 +53,14 @@
    "ubi": "burger://yourname@burgerplace:burgername/year/month/day"
  }
 ```
+
+
+####Pictures
+
+ Pictures should be added inside the folder `burgerplacename/` and it the name should follow something similar to this:
+ 
+ `yourname_placename_burgername_picnumber.format`
+
 
 ####Metadata
  
