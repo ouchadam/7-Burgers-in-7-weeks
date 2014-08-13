@@ -36,7 +36,7 @@
   - With highlights or downers
   
   
- ##Veredict
+ ##Verdict
   
   Score & optional short sentence as a summary
   
