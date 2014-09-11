@@ -5,9 +5,11 @@ The Mill Burger
 
 ##Review
 
-- The burger was so thiiick
+- The burger was so thiiick and juicy very nice meat
 - Nice cheese on it as well
+- Salad was standard and just boring
 - The chips where a bit thick for me I like them thinner
+- Oh and there ketchup was not heinz!
 - The letdown was the bun felt so cheap and thin!
 
 ##Veredict
